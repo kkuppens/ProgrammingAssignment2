@@ -56,4 +56,3 @@ cacheSolve <- function(x, ...) {
   	inverse
 }
 
-## 
