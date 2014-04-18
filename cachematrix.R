@@ -55,4 +55,3 @@ cacheSolve <- function(x, ...) {
   	# return the inversed matrix 
   	inverse
 }
-
